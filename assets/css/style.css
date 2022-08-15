@@ -392,12 +392,14 @@ section {
   background-size: cover;
   min-height: 500px;
 }
-h3 {
+.about h3 {
+  font-family: "Raleway", sans-serif;
   font-size: 26px;
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 20px;
   color: #3b434a;
+  padding-left: 30px;
 }
 .card {
   border: #dde1e4;
